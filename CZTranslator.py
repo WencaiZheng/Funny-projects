@@ -1,15 +1,15 @@
-# translate the Mandarin to Chaozhou dialogue
+# translate the Mandarin to Chaozhou dialect 
 import pandas as pd
 import numpy as np
 import os
 
-mydict=pd.read_csv('C:\\Users\\wenca\\Desktop\\interests research\\CZTranslator\\CZtxt.csv',header=None)
+mydict=pd.read_csv('CZtxt.csv',header=None)
 CZdict=mydict[0]
 MDdict=mydict[1]
 
 def menu(mydict):
     
-    print("1. Look up ChaoZhou dialogue\n2. Add your newly learned words. \n0. Exit ")
+    print("1. Look up ChaoZhou dialect  \n2. Add your newly learned words. \n0. Exit ")
     Menu=input("Choose Function:")
     
     if Menu=="1":
