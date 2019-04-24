@@ -3,4 +3,4 @@ Some funny projects I did.
 
 The first one is a translator from Mandarin to Teochew (Chao Zhou dialect) pronunciation.
 
-For the girl from the south.
+For my little girl from the south.
