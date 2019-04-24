@@ -1,2 +1,3 @@
 # Funny-projects
 Some funny projects I did.
+The first one is a translator from Teochew to Mandarin pronunciation.
